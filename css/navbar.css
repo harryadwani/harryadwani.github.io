@@ -1,5 +1,13 @@
 
 
+input,
+textarea,
+button,
+select,
+a {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
 .open {
     color: rgb(114, 32, 32);
     font-size: 30px;
